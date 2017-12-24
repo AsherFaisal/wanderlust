@@ -1,11 +1,11 @@
 // Foursquare API Info
-const clientId = 'NO3A5PMJ23EMYDY11KRQAVKHVA4XKAXHFTJB4WH0XCMSFKJ0';
-const clientSecret = '15RFYRO5ULB503MGWVRZEYVNXH3OSWI5SPG5KPDF33R1J5LY';
+const clientId = '';  //Enter client id here
+const clientSecret = ''; //Enter client secret here
 const url = 'https://api.foursquare.com/v2/venues/explore?near=';
 const imgPrefix = 'https://igx.4sqi.net/img/general/150x200';
 
 // APIXU Info
-const apiKey = 'd05ee00a519c490395060417170512';
+const apiKey = '';  //Enter api key here
 const forecastUrl = 'https://api.apixu.com/v1/forecast.json?key=';
 
 // Page Elements
